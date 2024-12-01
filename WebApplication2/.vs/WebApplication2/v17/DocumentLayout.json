@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\models\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:14:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T12:58:34.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:35:19.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:51:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:57:14.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:54:03.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T07:07:49.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:36:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Entites\\Student.cs",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Entites\\Student.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Entites\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:58:48.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T06:36:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:39:01.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
