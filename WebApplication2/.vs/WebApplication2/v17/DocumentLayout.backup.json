@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2A264F7-6F88-48D5-AB6A-5FADDEA1CB74}|WebApplication2\\WebApplication2.csproj|c:\\users\\sanje\\source\\repos\\webapplication2\\webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,30 +54,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "list.cshtml",
               "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Student\\list.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Student\\list.cshtml",
               "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Student\\list.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Student\\list.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T14:40:46.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Student\\Edit.cshtml",
               "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Student\\Edit.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T14:18:46.469Z",
               "EditorCaption": ""
@@ -92,8 +92,7 @@
               "RelativeToolTip": "WebApplication2\\Views\\Student\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T12:58:34.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T12:58:34.291Z"
             },
             {
               "$type": "Document",
@@ -109,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\sanje\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwD8AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T12:57:14.805Z",
               "EditorCaption": ""
@@ -130,8 +129,7 @@
               "RelativeToolTip": "WebApplication2\\data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:54:03.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T06:54:03.372Z"
             },
             {
               "$type": "Document",
