@@ -1,14 +1,19 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Runtime.InteropServices;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.data;
 using WebApplication2.Models;
+using WebApplication2.Models.Entites;
 
 namespace WebApplication2.Controllers
 {
     public class StudentController : Controller
     {
         private readonly ApplicationDbContext dbContext;
+
+      
+
         public StudentController(ApplicationDbContext dbContext)
         {
             this.dbContext = dbContext;
@@ -41,5 +46,31 @@ namespace WebApplication2.Controllers
             var students = await dbContext.Students.ToListAsync();
             return View(students);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(Guid id)
+        { 
+            var student=await dbContext.Students.FindAsync(id);
+            return View(student);
+        
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(Student viewModel)
+        {
+            var student=await dbContext.Students.FindAsync(viewModel.Id);
+            if (student is not null)
+            {
+                student.Name = viewModel.Name;
+                student.Email = viewModel.Email;
+                student.Phone = viewModel.Phone;
+                student.Subscribed = viewModel.Subscribed;
+
+                await dbContext.SaveChangesAsync();
+
+            }
+            return RedirectToAction("List","Students");
+        }
+
+
     }
 }
