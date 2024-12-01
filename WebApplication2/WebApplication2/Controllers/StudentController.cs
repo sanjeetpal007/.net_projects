@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebApplication2.data;
 using WebApplication2.Models;
 
@@ -33,6 +34,12 @@ namespace WebApplication2.Controllers
 
             await dbContext.SaveChangesAsync();
             return View();
+        }
+        [HttpGet]
+        public async Task<IActionResult> List()
+        {
+            var students = await dbContext.Students.ToListAsync();
+            return View(students);
         }
     }
 }
